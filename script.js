@@ -330,51 +330,51 @@ const on = (el, ev, fn, opts) => el && el.addEventListener(ev, fn, opts);
 
   const projects = {
     nova: {
-      emoji: '🏷️',
+      emoji: '<img src="images/Crest%20View%20School.jpeg" alt="Crest View Rebrand" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;" />',
       cat: 'Brand Identity',
-      title: 'Nova Spirits Rebrand',
-      meta: '2024 · Client: Nova Spirits Ltd',
-      body: 'Nova Spirits approached us with a dated identity that failed to reflect their premium positioning in a crowded spirits market. The rebrand involved a comprehensive visual audit, strategic repositioning, and a full identity system — from logo and colour palette through to bottle label design and retail packaging. The resulting system increased shelf pick-up by 34% in the first quarter post-launch.',
-      details: { Client: 'Nova Spirits Ltd', Year: '2024', Services: 'Branding, Packaging, Strategy', Tools: 'Illustrator, Photoshop, InDesign' }
+      title: 'Crest View Rebrand',
+      meta: '2025 · Client: Crest View Schools',
+      body: 'Crest View Schools partnered with us to create a modern, warm identity that reflects their commitment to academic excellence, community and joyful learning. We crafted a flexible visual system built around a refined crest-inspired mark, a friendly wordmark, and a palette of warm, grounded tones complemented by hand-drawn motifs referencing the school’s local heritage. The system was applied across signage, prospectuses, uniforms, wayfinding, digital templates and an accessible website. The result is a cohesive, human-centred brand that improves recognition, strengthens parent and student trust, and drove a notable uptick in open-day registrations and enquiries.',
+      details: { Client: 'Crest View Schools', Year: '2025', Services: 'Branding, Identity, Environmental Design, Web', Tools: 'Figma, Illustrator, InDesign' }
     },
     artefact: {
-      emoji: '📖',
+      emoji: '<img src="images/Agro%20Super%20Image.jpeg" alt="Artefact Magazine" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;" />',
       cat: 'Editorial Design',
       title: 'Artefact Magazine — Annual Edition',
       meta: '2024 · Client: Artefact Media',
-      body: 'Artefact Magazine commissioned a complete redesign of their annual 80-page edition, centred on the theme of "African Futures." The design system drew on contemporary West African visual traditions — bold geometric patterning, warm earth tones, and expressive display typography — to create an editorial identity both rooted and forward-looking.',
+      body: 'An 80-page annual edition of Artefact Magazine, a leading Nigerian publication covering culture, design, and innovation. The issue explored the theme of “Agro-Super” — the intersection of agriculture and urban life in Nigeria. The design combined bold typography, dynamic layouts, and vibrant imagery to create an engaging reading experience that celebrates the creativity and resilience of Nigerian urban farmers and food entrepreneurs.',
       details: { Client: 'Artefact Media', Year: '2024', Services: 'Editorial Design, Typography', Tools: 'InDesign, Illustrator, Lightroom' }
     },
     urban: {
-      emoji: '🏙️',
+      emoji: '<img src="images/unity%20Trust%20bank%202.jpeg" alt="Urban Roots Campaign" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;" />',
       cat: 'Campaign Design',
       title: 'Urban Roots Campaign',
-      meta: '2023 · Client: Lagos State Ministry of Culture',
-      body: 'A large-format out-of-home and digital campaign celebrating the cultural heritage of Lagos across 12 outdoor sites in high-traffic areas. The campaign identity balanced archival imagery with bold contemporary type treatments, generating significant press coverage and a 62% uplift in event attendance.',
-      details: { Client: 'Lagos State Ministry', Year: '2023', Services: 'Campaign, OOH, Digital', Tools: 'Photoshop, Illustrator, After Effects' }
+      meta: '2023 · Client: Unity Trust Bank',
+      body: 'A campaign celebrating the resilience and creativity of Nigerian urban communities, designed for Unity Trust Bank. The campaign included striking OOH billboards, vibrant digital ads, and dynamic social media content. The visual language combined gritty textures, bold typography, and vibrant colors to capture the energy and spirit of the city.',
+      details: { Client: 'Unity Trust Bank', Year: '2023', Services: 'Campaign, OOH, Digital', Tools: 'Photoshop, Illustrator, After Effects' }
     },
     ldw: {
-      emoji: '🎭',
+      emoji: '<img src="images/Naija%20Bites.jpeg" alt="Naija Bites" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;" />',
       cat: 'Event Branding',
-      title: 'Lagos Design Week 2023',
-      meta: '2023 · Client: Lagos Design Week Collective',
-      body: 'Full event identity for Lagos Design Week, encompassing stage design, wayfinding, print collateral, digital assets, and merchandise. The visual language — built around the concept of "intersection" — used overlapping geometric forms to represent the convergence of cultures, disciplines, and perspectives the festival embodies.',
-      details: { Client: 'Lagos Design Week', Year: '2023', Services: 'Event Identity, Print, Signage', Tools: 'Illustrator, InDesign, Figma' }
+      title: 'Naija Bites 2025',
+      meta: '2023 · Client: Naija Bites',
+      body: 'Full event identity for Naija Bites, encompassing stage design, wayfinding, print collateral, digital assets, and merchandise. The visual language — built around the concept of "intersection" — used overlapping geometric forms to represent the convergence of cultures, disciplines, and perspectives the festival embodies.',
+      details: { Client: 'Naija Bites', Year: '2025', Services: 'Event Identity, Print, Signage', Tools: 'Illustrator, InDesign, Figma' }
     },
     terra: {
-      emoji: '📦',
+      emoji: '<img src="images/Marina Beauty and spa.jpeg" alt="Marina Beauty and Spa" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;" />',
       cat: 'Packaging Design',
-      title: 'Terra Foods Packaging Range',
-      meta: '2022 · Client: Terra Foods Nigeria',
-      body: 'A 12-SKU packaging system for Terra Foods, a Nigerian artisan food brand entering national supermarket distribution. The challenge was creating a system that felt premium and artisanal whilst remaining competitive at mid-market price points. The solution used hand-illustrated botanical motifs, earthy paper textures, and a warm, restrained palette.',
-      details: { Client: 'Terra Foods Nigeria', Year: '2022', Services: 'Packaging, Branding, Illustration', Tools: 'Illustrator, Photoshop, InDesign' }
+      title: 'Marina Beauty and Spa',
+      meta: '2026 · Marina Beauty and Spa',
+      body: 'A 12-SKU packaging system for Marina Beauty and Spa’s new line of skincare products. The design aimed to make natural beauty services feel more tangible and approachable, using bold colors, playful illustrations, and clear typography to communicate the benefits of each product. The system was designed for scalability, allowing for easy addition of new products while maintaining a cohesive brand identity.',
+      details: { Client: 'Marina Beauty and Spa', Year: '2026', Services: 'Packaging, Branding, Illustration', Tools: 'Illustrator, Photoshop, InDesign' }
     },
     apex: {
       emoji: '📱',
       cat: 'Digital Design',
-      title: 'Apex Fintech — App UI & Brand Assets',
-      meta: '2022 · Client: Apex Financial Technologies',
-      body: 'UI design and brand asset creation for Apex, a Lagos-based fintech startup. Work encompassed onboarding screens, dashboard UI, icon set, and a comprehensive social media asset library. The design system was built in Figma with a focus on accessibility, clarity, and trust — key differentiators in the competitive Nigerian fintech market.',
+      title: 'NAIRA FLOW Fintech — App UI & Brand Assets',
+      meta: '2026 · Client: Apex Financial Technologies',
+      body: 'UI design and brand asset creation for Naia Flow, a Lagos-based fintech startup. Work encompassed onboarding screens, dashboard UI, icon set, and a comprehensive social media asset library. The design system was built in Figma with a focus on accessibility, clarity, and trust — key differentiators in the competitive Nigerian fintech market.',
       details: { Client: 'Apex Financial Technologies', Year: '2022', Services: 'UI Design, Brand Assets, Motion', Tools: 'Figma, Illustrator, After Effects' }
     },
   };
